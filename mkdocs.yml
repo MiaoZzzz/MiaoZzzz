@@ -1,0 +1,8 @@
+site_name: 高性能数据管理系统小组(HPDMS)
+
+pages:
+  - "实验室": index.md
+  - "组会记录": about.md
+  - "test": test.md
+
+theme: readthedocs
